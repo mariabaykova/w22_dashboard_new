@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href='https://fonts.googleapis.com/css?family=Permanent+Marker:400' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="./assets/styles.css">
+    <title>Dashboard</title>
+</head>
+<body>
+    <div class="wrapper">
+        <div class="header">
+            header
+        </div>
+        <div class="main">
+            <h1 class="title">
+                <span class="letters">
+                DASHBOARD
+                </span>
+            </h1>
+            <div class="parameters-block">
+                <div id="datepicker" class="task-date"></div>
+                <select name="task-type" id="task-type" class="task-type-style">
+
+                </select>
+            </div>
+            <div class="result" id="result-block">
+                <div class="result__items" id="result-items-id">
+
+                </div>
+                <div class="result__chart">
+                    <canvas id="myChart"></canvas>
+                </div>
+
+            </div>
+            <div class="error" id="error-block">
+
+            </div>
+        </div>
+        <div class="footer">
+            footer
+        </div>
+    </div>
+    
+    <script src="./node_modules/moment/moment.js"></script>
+    <script src="./node_modules/pikaday/pikaday.js"></script>
+    <script src="./node_modules/chart.js/dist/chart.js"></script>
+    <script src="./node_modules/animejs/lib/anime.min.js"></script>
+    <script src="./assets/script.js"></script>
+</body>
+</html>

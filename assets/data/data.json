@@ -1,0 +1,326 @@
+[
+  {
+    "task-id": 31,
+    "task-type": "housework",
+    "task-title": "Разгрузить ПММ",
+    "status": "done",
+    "date": "2022-05-21"
+  },
+  {
+    "task-id": 32,
+    "task-type": "housework",
+    "task-title": "Погладить рубашку",
+    "status": "in-progress",
+    "date": "2022-05-21"
+  },
+  {
+    "task-id": 33,
+    "task-type": "housework",
+    "task-title": "Погладить красное платье",
+    "status": "done",
+    "date": "2022-05-21"
+  },
+  {
+    "task-id": 34,
+    "task-type": "housework",
+    "task-title": "Погладить черное платье",
+    "status": "created",
+    "date": "2022-05-21"
+  },
+  {
+    "task-id": 35,
+    "task-type": "housework",
+    "task-title": "Запустить стиральную машину",
+    "status": "created",
+    "date": "2022-05-25"
+  },
+  {
+    "task-id": 36,
+    "task-type": "housework",
+    "task-title": "Вытереть пыль",
+    "status": "in-progress",
+    "date": "2022-05-25"
+  },
+  {
+    "task-id": 37,
+    "task-type": "housework",
+    "task-title": "Покупка продуктов для ужина",
+    "task-desc": "хлеб, сок, макароны, тортик, мясо, гречка",
+    "status": "done",
+    "date": "2022-05-25"
+  },
+  {
+    "task-id": 38,
+    "task-type": "housework",
+    "task-title": "Заказать клининг на следующую пятницу",
+    "status": "created",
+    "date": "2022-05-25"
+  },
+  {
+    "task-id": 39,
+    "task-type": "studying",
+    "task-title": "Созвон с группой",
+    "task-desc" : "Задать все вопросы и изучить инфу про webpack",
+    "status": "created",
+    "date": "2022-05-25"
+  },
+  {
+    "task-id": 40,
+    "task-type": "studying",
+    "task-title": "Составить вопросы",
+    "task-desc" : "Список накопившихся вопросов. Составить и задать их Кате.\nПо поводу библиотек и прочего.",
+    "status": "in-progress",
+    "date": "2022-05-25"
+  },
+  {
+    "task-id": 41,
+    "task-type": "studying",
+    "task-title": "HW Dashboard",
+    "task-desc" : "Почистить код от комментариев и отладочной печати",
+    "status": "in-progress",
+    "date": "2022-05-25"
+  },
+  {
+    "task-id": 41,
+    "task-type": "studying",
+    "task-title": "HW Dashboard",
+    "task-desc" : "Сдать работу",
+    "status": "created",
+    "date": "2022-05-25"
+  },
+  {
+    "task-id": 41,
+    "task-type": "studying",
+    "task-title": "HW Dashboard",
+    "task-desc" : "Закоммитить изменения в git",
+    "status": "done",
+    "date": "2022-05-25"
+  },
+    {
+      "task-id": 1,
+      "task-type": "housework",
+      "task-title": "Разгрузить ПММ",
+      "status": "done",
+      "date": "2022-05-20"
+    },
+    {
+      "task-id": 2,
+      "task-type": "housework",
+      "task-title": "Загрузить ПММ",
+      "status": "created",
+      "date": "2022-05-20"
+    },
+    {
+      "task-id": 3,
+      "task-type": "housework",
+      "task-title": "Пропылесосить пол",
+      "status": "created",
+      "date": "2022-05-20"
+    },
+    {
+      "task-id": 4,
+      "task-type": "housework",
+      "task-title": "Покормить кошку",
+      "task-desc": "Сухарями или тем, что будет из вареного мяса",
+      "status": "created",
+      "date": "2022-05-20"
+    },
+    {
+      "task-id": 5,
+      "task-type": "housework",
+      "task-title": "Стирка",
+      "status": "in-progress",
+      "date": "2022-05-20"
+    },
+    {
+      "task-id": 6,
+      "task-type": "housework",
+      "task-title": "Приготовить обед",
+      "status": "created",
+      "date": "2022-05-20"
+    },
+    {
+      "task-id": 7,
+      "task-type": "housework",
+      "task-title": "Купить продукты для ужина",
+      "task-desc": "Будем готовить утку с булгуром, утку замариновать в соевом соусе, горчице и мЁде",
+      "status": "created",
+      "date": "2022-05-20"
+    },
+    {
+      "task-id": 8,
+      "task-type": "housework",
+      "task-title": "Помыть окно в спальне",
+      "status": "in-progress",
+      "date": "2022-05-20"
+    },
+    {
+      "task-id": 9,
+      "task-type": "housework",
+      "task-title": "Разгрузить ПММ",
+      "status": "done",
+      "date": "2022-05-19"
+    },
+    {
+      "task-id": 10,
+      "task-type": "housework",
+      "task-title": "Загрузить ПММ",
+      "status": "created",
+      "date": "2022-05-19"
+    },
+    {
+      "task-id": 11,
+      "task-type": "housework",
+      "task-title": "Пропылесосить пол",
+      "status": "in-progress",
+      "date": "2022-05-19"
+    },
+    {
+      "task-id": 12,
+      "task-type": "housework",
+      "task-title": "Разгрузить ПММ",
+      "status": "done",
+      "date": "2022-05-18"
+    },
+    {
+      "task-id": 13,
+      "task-type": "housework",
+      "task-title": "Загрузить ПММ",
+      "status": "created",
+      "date": "2022-05-18"
+    },
+    {
+      "task-id": 14,
+      "task-type": "housework",
+      "task-title": "Пропылесосить диван",
+      "status": "created",
+      "date": "2022-05-18"
+    },
+    {
+      "task-id": 15,
+      "task-type": "housework",
+      "task-title": "Помыть холодильник",
+      "status": "created",
+      "date": "2022-05-18"
+    },
+    {
+      "task-id": 16,
+      "task-type": "housework",
+      "task-title": "Почистить ПММ",
+      "task-desc": "Средство в шкафу под раковиной, нужно запустить ПММ с открытой бутылкой на самой горячей температуре",
+      "status": "created",
+      "date": "2022-05-18"
+    },
+    {
+      "task-id": 17,
+      "task-type": "housework",
+      "task-title": "Помыть плиту",
+      "task-desk": "Плита уже совсем грязная, сто лет не мыли ее, нужно помыть.",
+      "status": "created",
+      "date": "2022-05-18"
+    },
+    {
+      "task-id": 18,
+      "task-type": "studying",
+      "task-title": "Dashboard, структура данных",
+      "task-desc": "Создать структуру данных для задания 2 недели 22.\nДанные будут храниться в файле json.",
+      "status": "in-progress",
+      "date": "2022-05-20"
+    },
+    {
+      "task-id": 19,
+      "task-type": "studying",
+      "task-title": "Dashboard, каркас страницы",
+      "task-desc": "Для задания 2 недели 22.\nСоздать файл index.html, также styles.css, сделать скелет страницы.",
+      "status": "created",
+      "date": "2022-05-20"
+    },
+    {
+      "task-id": 20,
+      "task-type": "studying",
+      "task-title": "ChartJs, попробовать",
+      "task-desc": "Попробовать использовать библиотеку chart js, вывести тестовый набор данных с помощью нее на страницу в виде какой-нибудь диаграммы.",
+      "status": "created",
+      "date": "2022-05-20"
+    },
+    {
+      "task-id": 21,
+      "task-type": "studying",
+      "task-title": "Видео встречи",
+      "task-desc": "Посмотреть видео со встречи, которая прошла в среду",
+      "status": "done",
+      "date": "2022-05-19"
+    },
+    {
+      "task-id": 22,
+      "task-type": "studying",
+      "task-title": "Node.js, npm",
+      "task-desc": "Установить Node.js и npm",
+      "status": "done",
+      "date": "2022-05-19"
+    },
+    {
+      "task-id": 23,
+      "task-type": "studying",
+      "task-title": "Moment lib",
+      "task-desc": "установить и попробовать использовать библиотеку moment",
+      "status": "in-progress",
+      "date": "2022-05-19"
+    },
+    {
+      "task-id": 24,
+      "task-type": "studying",
+      "task-title": "Browserify install",
+      "task-desc": "Установить сборщик browserify",
+      "status": "done",
+      "date": "2022-05-19"
+    },
+    {
+      "task-id": 25,
+      "task-type": "studying",
+      "task-title": "Вопросы",
+      "task-desc": "Сформулировать вопросы для Кати и задать их",
+      "status": "created",
+      "date": "2022-05-20"
+    },
+    {
+      "task-id": 26,
+      "task-type": "for-myself",
+      "task-title": "Маникюр",
+      "task-desc": "К Наташе на маникюр к 12! Не забыть!!!",
+      "status": "created",
+      "date": "2022-05-21"
+    },
+    {
+      "task-id": 27,
+      "task-type": "for-myself",
+      "task-title": "Парикмахер",
+      "task-desc": "В парикмахерскую к 16-00, Катя переехала на Раевского, не забыть!",
+      "status": "done",
+      "date": "2022-05-19"
+    },
+    {
+      "task-id": 28,
+      "task-type": "for-myself",
+      "task-title": "Массаж",
+      "task-desc": "В 19-00",
+      "status": "created",
+      "date": "2022-05-19"
+    },
+    {
+      "task-id": 29,
+      "task-type": "for-myself",
+      "task-title": "Массаж",
+      "task-desc": "В 20-00",
+      "status": "created",
+      "date": "2022-05-20"
+    },
+    {
+      "task-id": 30,
+      "task-type": "for-myself",
+      "task-title": "Торт",
+      "task-desc": "Купить и съесть самый вкусный торт.",
+      "status": "done",
+      "date": "2022-05-20"
+    }
+  ]
